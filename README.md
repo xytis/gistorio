@@ -1,6 +1,8 @@
 
 ## What is Gistorio?
 
+[![Join the chat at https://gitter.im/gistorio/Lobby](https://badges.gitter.im/gistorio/Lobby.svg)](https://gitter.im/gistorio/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 History, or at least our 'collective' history, has a major flaw. History _is_
 written and may be subjectively altered based on needs and requirements of
 existing population or figures in power. While it is harder to hide certain
